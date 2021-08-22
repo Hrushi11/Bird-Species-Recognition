@@ -4,7 +4,7 @@ Data set of 285 bird species.40930 training images, 1425 test images(5 images pe
 All images are 224 X 224 X 3 color images in jpg format. Data set includes a train set, test set and validation set. Each set contains 285 sub directories, 
 one for each bird species. The data structure is convenient if you use the Keras ImageDataGenerator.flowfromdirectory to create your train, test and valid data generators. 
 
-Visit the blog here - [Bird Species Recognition]()
+Visit the blog here - [Bird Species Recognition](https://hrushi11.github.io/Heights-for-AI/Bird_Species_Recognition/)
 
 ![IMG](https://github.com/Hrushi11/Bird-Species-Recognition/blob/main/images/random_img_crp.jpg?raw=true)
 
